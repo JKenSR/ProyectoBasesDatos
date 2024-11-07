@@ -47,7 +47,7 @@
     }
 %>
 
-<!-- Mostrar mensaje de error si existe -->
+<!-- Mostrar mensaje de error si existeaaaaa-->
 <% if (mensajeError != null) { %>
     <p style="color:red;"><%= mensajeError %></p>
 <% } %>
